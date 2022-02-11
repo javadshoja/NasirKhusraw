@@ -4,6 +4,8 @@ The TSP solved using genetic algorithm.
 
 This project show TSP path overlaid on a map of the Iran provinces & their capitals.
 
+Python code was inspired from [here.](https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35)
+
 ## Requirements
 
 - Python version 3+
